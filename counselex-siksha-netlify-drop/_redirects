@@ -1,5 +1,0 @@
-/api/data  /api/data.json  200
-/api/streams/:slug  /api/streams/:slug.json  200
-/colleges/:stream  /index.html  200
-/colleges/*  /index.html  200
-/*  /index.html  200
